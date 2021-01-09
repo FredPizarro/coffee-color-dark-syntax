@@ -6,6 +6,26 @@
     "engines": {
         "vscode": "^1.51.0"
     },
+    "publisher": "SkyRider",
+    "author": {
+        "name": "Fred Pizarro"
+    },
+    "license": "GPLv3",
+    "homepage": "https://fredpizarro.github.io/#web-dev",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FredPizarro/coffee-color-dark-syntax"
+    },
+    "bugs": {
+        "url": "https://github.com/FredPizarro/coffee-color-dark-syntax/issues"
+    },
+    "keywords": [
+        "Color material",
+        "Coffee color",
+        "minimalistic design",
+        "theme Syntax",
+        "color"
+    ],
     "categories": [
         "Themes"
     ],
