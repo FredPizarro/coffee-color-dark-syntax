@@ -1,0 +1,21 @@
+{
+    "name": "coffee-color-dark-syntax",
+    "displayName": "coffee-color-dark-syntax",
+    "description": "Inspirate in the product coffee + Color Material ...",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color Coffee Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Color Coffee Dark-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+node_modules
+*.vsix
+themes/comment.txt
+themes/tach.html
+themes/colors.less
+themes/colors.css
+themes/base.less

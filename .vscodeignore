@@ -1,0 +1,8 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+themes/comment.txt
+themes/tach.html
+themes/colors.less
+themes/base.less
