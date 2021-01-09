@@ -10,6 +10,7 @@
     "author": {
         "name": "Fred Pizarro"
     },
+    "icon": "https://i.imgur.com/Z676PTh.png",
     "license": "GPLv3",
     "homepage": "https://fredpizarro.github.io/#web-dev",
     "repository": {
@@ -21,13 +22,15 @@
     },
     "keywords": [
         "Color material",
+		"material",
         "Coffee color",
         "minimalistic design",
         "theme Syntax",
         "color"
     ],
     "categories": [
-        "Themes"
+        "Themes",
+		"Other"
     ],
     "contributes": {
         "themes": [
