@@ -1,44 +1,49 @@
 {
-    "name": "coffee-color-dark-syntax",
-    "displayName": "coffee-color-dark-syntax",
-    "description": "Inspirate in the product coffee + Color Material ...",
-    "version": "0.0.2",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "publisher": "SkyRider",
-    "author": {
-        "name": "Fred Pizarro"
-    },
-    "icon": "https://i.imgur.com/Z676PTh.png",
-    "license": "GPLv3",
-    "homepage": "https://fredpizarro.github.io/#web-dev",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/FredPizarro/coffee-color-dark-syntax"
-    },
-    "bugs": {
-        "url": "https://github.com/FredPizarro/coffee-color-dark-syntax/issues"
-    },
-    "keywords": [
-        "Color material",
+	"name": "coffee-color-dark-syntax",
+	"displayName": "coffee-color-dark-syntax",
+	"description": "Inspirate in the product coffee + Color Material ...",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"publisher": "Theme-coffe-Color",
+	"author": {
+		"name": "Fred Pizarro"
+	},
+	"icon": "images/skyrider.png",
+	"license": "GPLv3",
+	"homepage": "https://fredpizarro.github.io/#web-dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FredPizarro/coffee-color-dark-syntax"
+	},
+	"bugs": {
+		"url": "https://github.com/FredPizarro/coffee-color-dark-syntax/issues"
+	},
+	"keywords": [
+		"Color material",
 		"material",
-        "Coffee color",
-        "minimalistic design",
-        "theme Syntax",
-        "color"
-    ],
-    "categories": [
-        "Themes",
+		"Coffee color",
+		"minimalistic design",
+		"theme Syntax",
+		"color"
+	],
+	"categories": [
+		"Themes",
 		"Other"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Color Coffee Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Color Coffee Dark-color-theme.json"
-            }
-        ]
-    }
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Color Coffee Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3d520d86-bdf0-4077-809b-9039d77f51a9",
+		"publisherDisplayName": "Coffee Color Theme",
+		"publisherId": "8f973a1b-799d-4142-9562-9bc597e63618"
+	}
 }
