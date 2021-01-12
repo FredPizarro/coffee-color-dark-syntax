@@ -4,21 +4,20 @@
    
 Is a Theme inspirate in the product coffee + Color Material ... The theme is designed for a dark cool color in html, css, TS, JS, dart ... md, json, etc
 
+> *Note important: fixed guide "Installation (theme base.css)"
 
-![theme preview](https://i.imgur.com/MvsTcKB.png)
-
+![theme preview](https://i.imgur.com/yVp3wB2.png)
 
 # Installation (theme base.css)
+ 
 
-  
-
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Open the **Extensions** in VS Code. `View → Extensions` or (win: `CTRL + Shift + X` or mac: ` ⌘ + ⇧ + X`)
 
 1. Search for `Coffee-Color-Dark-Syntax`
 
 1. Click **install** this theme
 
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Open the **Extensions** in VS Code. `View → Extensions` or (win: `CTRL + Shift + X` or mac: ` ⌘ + ⇧ + X`)
 
 1. Search for `Custom CSS and JS Loader`
 
@@ -33,20 +32,20 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 &emsp; &emsp; &nbsp; On Mac it might look something like the snippet below: 
 ```
    "vscode_custom_css.imports": [
-      "file:///Users/<your_user_name>/.vscode/extensions/coffee-color-dark-syntax/themes/base.css"
+      "file:///Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.0/themes/base.css"
    ]
 ``` 
 
 &emsp; &emsp; &nbsp; Windows might resemble: 
 ```
 "vscode_custom_css.imports": [
-   "file:///C:/Users/<your_user_name>/.vscode/extensions/coffee-color-dark-syntax/base.css"
+   "file:///C:/Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.0/themes/base.css"
 ]
 ```
 
-&emsp; &emsp; &nbsp; (note): Change <your_user_name> by your `%USERPROFILE%` (in windows) or  `whoami` (in mac)
+&emsp; &emsp; &nbsp; (note): Change <your_user_name>, to know use in terminal `query user` or `net user` (in windows) and  `whoami` (in mac)
 
-&emsp; &nbsp; &nbsp; 9. Open the Command Palette (Ctrl+Shift+P) adn find/Activate/click the `Enable Custom CSS and JS Loader`
+&emsp; &nbsp; &nbsp; 9. Open the Command Palette (Ctrl+Shift+P) and find/Activate/click the `Enable Custom CSS and JS Loader`
 
 
 # Suggestions
@@ -60,7 +59,7 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 
 # Images
 
-  
+
 
 #### view in html
 
@@ -73,10 +72,8 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 #### view in TypeScript
 
 ![HTML](https://i.imgur.com/MvsTcKB.png)
-
+ 
   
-  
-
 
 ## Manual mode
 

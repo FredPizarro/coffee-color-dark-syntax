@@ -1,12 +1,12 @@
 {
-	"name": "coffee-color-dark-syntax",
-	"displayName": "coffee-color-dark-syntax",
+	"name": "coffee-color-dark",
+	"displayName": "Coffee Dark Theme",
 	"description": "Inspirate in the product coffee + Color Material ...",
-	"version": "0.0.4",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
-	"publisher": "Theme-coffe-Color",
+	"publisher": "color-syntax",
 	"author": {
 		"name": "Fred Pizarro"
 	},
@@ -18,7 +18,7 @@
 		"url": "https://github.com/FredPizarro/coffee-color-dark-syntax"
 	},
 	"bugs": {
-		"url": "https://github.com/FredPizarro/coffee-color-dark-syntax/issues"
+		"url": "https://github.com/FredPizarro/coffee-color-dark/issues"
 	},
 	"keywords": [
 		"Color material",
@@ -26,7 +26,8 @@
 		"Coffee color",
 		"minimalistic design",
 		"theme Syntax",
-		"color"
+		"color",
+		"Coffee Dark Theme"
 	],
 	"categories": [
 		"Themes",
@@ -40,10 +41,5 @@
 				"path": "./themes/Color Coffee Dark-color-theme.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "3d520d86-bdf0-4077-809b-9039d77f51a9",
-		"publisherDisplayName": "Coffee Color Theme",
-		"publisherId": "8f973a1b-799d-4142-9562-9bc597e63618"
 	}
 }
