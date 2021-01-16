@@ -8,6 +8,13 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 
 ![theme preview](https://i.imgur.com/yVp3wB2.png)
 
+#### view in New v.0.1.1
+   * fixed color/background statusbar bottom 
+   * fixed windows title and window-appicon (- D X)
+   * fixed/change color vscode
+   * fixed color search select
+   * fixed color count errors
+
 # Installation (theme base.css)
  
 
@@ -32,14 +39,14 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 &emsp; &emsp; &nbsp; On Mac it might look something like the snippet below: 
 ```
    "vscode_custom_css.imports": [
-      "file:///Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.0/themes/base.css"
+      "file:///Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.1/themes/base.css"
    ]
 ``` 
 
 &emsp; &emsp; &nbsp; Windows might resemble: 
 ```
 "vscode_custom_css.imports": [
-   "file:///C:/Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.0/themes/base.css"
+   "file:///C:/Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.1/themes/base.css"
 ]
 ```
 

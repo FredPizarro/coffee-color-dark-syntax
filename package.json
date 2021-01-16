@@ -2,7 +2,7 @@
 	"name": "coffee-color-dark",
 	"displayName": "Coffee Dark Theme",
 	"description": "Inspirate in the product coffee + Color Material ...",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
@@ -41,5 +41,10 @@
 				"path": "./themes/Color Coffee Dark-color-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "988708f9-4613-45a8-a2a7-2edfe782f94e",
+		"publisherDisplayName": "SkyRider",
+		"publisherId": "55067796-513b-487e-ba6a-fbadb0fa8504"
 	}
 }
