@@ -2,7 +2,7 @@
 	"name": "coffee-color-dark",
 	"displayName": "Coffee Dark Theme",
 	"description": "Inspirate in the product coffee + Color Material ...",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
