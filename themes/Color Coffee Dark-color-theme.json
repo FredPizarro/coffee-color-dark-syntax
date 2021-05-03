@@ -1157,7 +1157,7 @@
       "scope": "support.type.property-name.json",
       "settings": {
         "foreground": "#66BB6A",
-        "fontStyle": "bold",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1469,7 +1469,7 @@
     {
       "name": "JavaScript function",
       "scope": [
-        "variable.other.object.js",
+        "variable.other.object.js"
       ],
       "settings": {
         "foreground": "#FFD180"
@@ -1478,7 +1478,7 @@
     {
       "name": "JavaScript name function",
       "scope": [
-        "variable.other.readwrite.js",
+        "variable.other.readwrite.js"
       ],
       "settings": {
         "foreground": "#E0E0E0"
@@ -1509,7 +1509,7 @@
     {
       "name": "JavaScript console",
       "scope": [
-        "entity.name.function.js",
+        "entity.name.function.js"
       ],
       "settings": {
         "foreground": "#BDBDBD",
@@ -1520,7 +1520,7 @@
       "name": "JavaScript types",
       "scope": [
         "storage.type.js",
-        "storage.type.function.js",
+        "storage.type.function.js"
       ],
       "settings": {
         "foreground": "#FFCA28",
@@ -1531,7 +1531,7 @@
     {
       "name": "TypeScript object-literal",
       "scope": [
-        "meta.object-literal.key.ts",
+        "meta.object-literal.key.ts"
       ],
       "settings": {
         "foreground": "#F57147"
@@ -1571,7 +1571,7 @@
       "name": "TypeScript import variables",
       "scope": [
         "variable.other.readwrite.alias.ts",
-        "variable.other.readwrite.alias.tsx",
+        "variable.other.readwrite.alias.tsx"
       ],
       "settings": {
         "foreground": "#F85454"
@@ -1666,7 +1666,7 @@
       "scope": [
         "meta.var.expr.ts",
         "storage.type.property.ts",
-        "storage.type.property.tsx",
+        "storage.type.property.tsx"
       ],
       "settings": {
         "foreground": "#2F8EDA",
@@ -1799,7 +1799,7 @@
     {
       "name": "TypeScript Document, extends-object",
       "scope": [
-        "entity.other.inherited-class.ts",
+        "entity.other.inherited-class.ts"
       ],
       "settings": {
         "foreground": "#FF5252",
@@ -1822,7 +1822,7 @@
         "storage.modifier.ts"
       ],
       "settings": {
-        "foreground": "#FF5252",
+        "foreground": "#FF5252"
       }
     },
     {
@@ -1831,7 +1831,7 @@
         "storage.modifier.async.ts"
       ],
       "settings": {
-        "foreground": "#FF5252",
+        "foreground": "#FF5252"
       }
     },
     {

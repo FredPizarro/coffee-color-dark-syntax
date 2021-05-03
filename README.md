@@ -4,18 +4,19 @@
    
 Is a Theme inspirate in the product coffee + Color Material ... The theme is designed for a dark cool color in html, css, TS, JS, dart ... md, json, etc
 
-> *Note important: fixed guide "Installation (theme base.css)"
+> *Note important: guide "Installation (theme `base.css`) or reset `Enable Custom CSS and JS`"
 
 ![theme preview](https://i.imgur.com/yVp3wB2.png)
 
-#### view in New v.0.1.1
+#### view in New v.0.1.2
    * fixed color/background statusbar bottom 
    * fixed windows title and window-appicon (- D X)
    * fixed/change color vscode
    * fixed color search select
    * fixed color count errors
+   * Add change color in tab error
 
-# Installation (theme base.css)
+# Installation (theme + base.css)
  
 
 1. Open the **Extensions** in VS Code. `View → Extensions` or (win: `CTRL + Shift + X` or mac: ` ⌘ + ⇧ + X`)
