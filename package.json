@@ -2,7 +2,7 @@
 	"name": "coffee-color-dark",
 	"displayName": "Coffee Dark Theme",
 	"description": "Inspirate in the product coffee + Color Material ...",
-	"version": "0.1.2",
+	"version": "0.2.0",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
@@ -27,7 +27,10 @@
 		"minimalistic design",
 		"theme Syntax",
 		"color",
-		"Coffee Dark Theme"
+		"teal",
+		"purple",
+		"Coffee Dark Theme",
+		"Color Coffee Dark (Purple)"
 	],
 	"categories": [
 		"Themes",
@@ -39,6 +42,11 @@
 				"label": "Color Coffee Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Color Coffee Dark-color-theme.json"
+			},
+			{
+				"label": "Color Coffee Dark (Purple)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee_Dark-purple-theme.json"
 			}
 		]
 	},

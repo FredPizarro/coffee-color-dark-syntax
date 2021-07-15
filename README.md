@@ -1,20 +1,17 @@
 
 
 # Coffee Color Dark Syntax
-   
-Is a Theme inspirate in the product coffee + Color Material ... The theme is designed for a dark cool color in html, css, TS, JS, dart ... md, json, etc
 
-> *Note important: guide "Installation (theme `base.css`) or reset `Enable Custom CSS and JS`"
+Is a Theme inspirate in the product coffee + Color Material ... The theme is designed for a dark cool color in html, css, TS, JS, dart ... md, json, etc.
 
-![theme preview](https://i.imgur.com/yVp3wB2.png)
+> *Note important: guide "Installation (theme `base.css` (default) or `base-purple.css`(purple) ) or reset `Enable Custom CSS and JS`"
 
-#### view in New v.0.1.2
-   * fixed color/background statusbar bottom 
-   * fixed windows title and window-appicon (- D X)
-   * fixed/change color vscode
-   * fixed color search select
-   * fixed color count errors
-   * Add change color in tab error
+![theme preview](https://i.imgur.com/5sOpQnS.png)
+
+#### view in New v.0.2.0
+   * fixed color tab active - dirty
+   * add color theme: `Color Coffe Dark (purple)`
+   * fixed button close in tabs active and inactive
 
 # Installation (theme + base.css)
  
@@ -40,21 +37,22 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 &emsp; &emsp; &nbsp; On Mac it might look something like the snippet below: 
 ```
    "vscode_custom_css.imports": [
-      "file:///Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.1/themes/base.css"
+      "file:///Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.2.0/themes/base.css"
    ]
 ``` 
 
 &emsp; &emsp; &nbsp; Windows might resemble: 
 ```
 "vscode_custom_css.imports": [
-   "file:///C:/Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.1.1/themes/base.css"
+   "file:///C:/Users/<your_user_name>/.vscode/extensions/color-syntax.coffee-color-dark-0.2.0/themes/base.css"
 ]
 ```
 
-&emsp; &emsp; &nbsp; (note): Change <your_user_name>, to know use in terminal `query user` or `net user` (in windows) and  `whoami` (in mac)
+&emsp; &emsp; &nbsp; (note 1): Change `<your_user_name>`, to know use in terminal `query user` or `net user` (in windows) and  `whoami` (in mac)
 
-&emsp; &nbsp; &nbsp; 9. Open the Command Palette (Ctrl+Shift+P) and find/Activate/click the `Enable Custom CSS and JS Loader`
+&emsp; &emsp; &nbsp; (note 2):  name file style (css) is `base.css` (default or Color Coffee Dark) or `base-purple.css` (Color Coffee Dark (Purple))
 
+&emsp; &emsp; &nbsp; (note 3):  9. Open the Command Palette (Ctrl+Shift+P) and find/Activate/click the `Enable Custom CSS and JS Loader`
 
 # Suggestions
 
@@ -79,8 +77,11 @@ Is a Theme inspirate in the product coffee + Color Material ... The theme is des
 
 #### view in TypeScript
 
-![HTML](https://i.imgur.com/MvsTcKB.png)
+![HTML](https://i.imgur.com/snMJEqv.png)
  
+#### view in JS
+![JS](https://i.imgur.com/HsJmDcJ.png)
+![HTML](https://i.imgur.com/WG9F42G.png)
   
 
 ## Manual mode

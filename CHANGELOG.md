@@ -1,4 +1,9 @@
 # Change Log
+ 
+ > [v0.2.0] new color
+   * fixed color tab active - dirty
+   * add color theme: `Color Coffe Dark (purple)`
+   * fixed button close in tabs active and inactive
 
  > [v0.1.2] fixed color and Add shadown
    * fixed color select in widget ctrl + F, ctrl + h
